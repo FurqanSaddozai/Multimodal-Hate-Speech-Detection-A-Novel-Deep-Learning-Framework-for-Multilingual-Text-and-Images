@@ -16,8 +16,9 @@ Text (English): The English translation of the corresponding Urdu tweet.
 Image_Text: Text extracted from images in Urdu. If no text is extracted, the value 'NIL' is used.
 Image_Text (English): The English translation of the corresponding Image_Text value. If Image_Text is 'NIL', this column also shows 'NIL'.
 Label: Indicates the classification of the multimodal multilingual tweet as either 'Hate' or 'No-Hate'.
-The dataset contains two folders:
+The  [MMHS11K_train.xlsx] and [MMHS11K_test.xlsx] files are archived in [MMHS11K_Dataset.rar] folder. 
 
-MMHS11K_RGB_train.rar: This folder contains the training images in RGB format. It includes two subfolders: Hate and No-Hate. For each tweet in the MMHS11K_train.xlsx file, the corresponding image is stored in the appropriate subfolder (Hate or No-Hate) within the MMHS11K_RGB_train folder, using the tweet's Tweet_Id as the filename. For example, the image for Tweet_Id = 1596192893743796224 is stored in the No-Hate subfolder of MMHS11K_RGB_train, as this tweet is labeled as No-Hate.
 
-MMHS11K_RGB_test.rar: This folder contains the test images in RGB format. It also includes two subfolders: Hate and No-Hate.
+The [MMHS11K_RGB_train.rar folder](https://drive.google.com/file/d/1bX7QugmnIv-r8U6xVZKjqNQuOkXsF4tc/view?usp=sharing) contains the training images in RGB format.
+
+The [MMHS11K_RGB_test.rar folder](https://drive.google.com/file/d/1TSRPlE-mVPoUqReJTZye0fyBYmZUz_Ok/view?usp=sharing) contains the test images in RGB format.
