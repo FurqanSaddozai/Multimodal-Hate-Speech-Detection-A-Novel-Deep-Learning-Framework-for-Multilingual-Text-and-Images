@@ -19,3 +19,6 @@ Label: Indicates the classification of the multimodal multilingual tweet as eith
 The  [MMHS11K_train.xlsx] and [MMHS11K_test.xlsx] files are archived in [MMHS11K_Dataset.rar] folder. 
 The [MMHS11K_RGB_train.rar folder](https://drive.google.com/file/d/1bX7QugmnIv-r8U6xVZKjqNQuOkXsF4tc/view?usp=sharing) contains the training images in RGB format.
 The [MMHS11K_RGB_test.rar folder](https://drive.google.com/file/d/1TSRPlE-mVPoUqReJTZye0fyBYmZUz_Ok/view?usp=sharing) contains the test images in RGB format.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14787594.svg)](https://doi.org/10.5281/zenodo.14787594)
+
